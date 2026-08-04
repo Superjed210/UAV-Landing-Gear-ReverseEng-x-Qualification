@@ -1,10 +1,8 @@
 <p align="center">
   <a>
-    <img src="assets/Proj_Banner.png" alt="Project Banner" width="100%">
+    <img src="Assets/Proj_Banner.png" alt="Project Banner" width="100%">
   </a>
 </p>
-
-# Reverse Engineering and Qualification of a UAV Landing Leg
 
 > University of Maryland – Department of Materials Science & Engineering
 > 
@@ -14,7 +12,7 @@
 
 ## Overview
 
-This repository documents an eight-week engineering internship completed through the Engineering Design and Additive Manufacturing Program (EDAP) hosted at the University of Maryland Department of Materials Science & Engineering.
+This repository documents an eight-week engineering research internship completed with the University of Maryland Department of Materials Science & Engineering.
 
 The project followed the complete engineering design process to reverse engineer, digitally reconstruct, optimize, manufacture, and qualify an existing unmanned aerial vehicle (UAV) landing leg. The original component lacked engineering documentation, requiring the team to recover its geometry through metrology, evaluate its structural performance through computational modeling, redesign the component for improved performance and manufacturability, fabricate prototypes using multiple additive manufacturing processes, and validate the final designs through experimental testing.
 
