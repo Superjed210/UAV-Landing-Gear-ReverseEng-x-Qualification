@@ -1,3 +1,9 @@
+<p align="center">
+  <a>
+    <img src="assets/Proj_Banner.png" alt="Project Banner" width="100%">
+  </a>
+</p>
+
 # Reverse Engineering and Qualification of a UAV Landing Leg
 
 > University of Maryland – Department of Materials Science & Engineering
