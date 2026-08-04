@@ -123,7 +123,7 @@ This model was selected as the final engineering solution and served as the basi
 
 ## Drop Test Rig
 <p align="left">
-  <img src="../Assets/models/test-rig.png" width="400">
+  <img src="../Assets/models/test-rig.png" width="500">
 </p>
 
 ```
