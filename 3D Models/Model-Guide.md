@@ -8,6 +8,10 @@ The models illustrate the progression from the reconstructed baseline geometry t
 
 
 ## Original UAV Landing Leg
+<p align="left">
+  <img src="../Assets/models/original-model.png" width="500">
+</p>
+
 ```
 Original_UAV_Landing_Leg.f3d
 ```
@@ -29,6 +33,9 @@ This model served as the engineering reference for all subsequent simulations an
 
 
 ## Reinforced Reference Model
+<p align="left">
+  <img src="../Assets/models/reinforced-reference.png" width="400">
+</p>
 
 ```
 Reinforced_Reference_Model.f3d
@@ -57,7 +64,9 @@ These models were produced using Fusion 360 Generative Design under identical lo
 ---
 
 ### Iteration 01 — Dual-Strut Concept
-
+<p align="left">
+  <img src="../Assets/models/iteration-01.png" width="200">
+</p>
 
 ```
 Iteration_01_Dual_Strut.f3d
@@ -72,7 +81,9 @@ Although structurally interesting, it was retained only as an intermediate desig
 ---
 
 ### Iteration 02 — Lightweight Dual-Strut Concept
-
+<p align="left">
+  <img src="../Assets/models/iteration-02.png" width="200">
+</p>
 
 ```
 Iteration_02_Lightweight_Dual_Strut.f3d
@@ -88,6 +99,9 @@ While this iteration demonstrated the capabilities of generative design, it was 
 ---
 
 ## Final Design
+<p align="left">
+  <img src="../Assets/models/final.png" width="200">
+</p>
 
 ```
 Final_Hybrid_Design.f3d
@@ -108,6 +122,9 @@ This model was selected as the final engineering solution and served as the basi
 
 
 ## Drop Test Rig
+<p align="left">
+  <img src="../Assets/models/test-rig.png" width="200">
+</p>
 
 ```
 Drop_Test_Rig.f3d
