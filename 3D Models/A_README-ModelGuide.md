@@ -13,7 +13,7 @@ The models illustrate the progression from the reconstructed baseline geometry t
 </p>
 
 ```
-Original_UAV_Landing_Leg.f3d
+Original_UAV_Landing_Leg.stp
 ```
 
 This model represents the reconstructed baseline geometry derived from the reverse-engineered landing leg.
@@ -38,7 +38,7 @@ This model served as the engineering reference for all subsequent simulations an
 </p>
 
 ```
-Reinforced_Reference_Model.f3d
+Reinforced_Reference_Model.3mf
 ```
 
 This model is an elongated and structurally reinforced version of the reconstructed landing leg.
@@ -58,7 +58,7 @@ Although this was not the final manufactured design, it provided an important co
 ### Spring-Inspired Landing Leg
 
 ```
-Spring_Inspired_Leg.f3d
+Spring_Inspired_Leg.3mf
 ```
 
 <p align="left">
@@ -94,7 +94,7 @@ These models were produced using Fusion 360 Generative Design under identical lo
 </p>
 
 ```
-Iteration_01_Dual_Strut.f3d
+Iteration_01_Dual_Strut.3mf
 ```
 
 This early generative design concept features two primary structural members connecting the landing foot to the upper mounting interface.
@@ -111,7 +111,7 @@ Although structurally interesting, it was retained only as an intermediate desig
 </p>
 
 ```
-Iteration_02_Lightweight_Dual_Strut.f3d
+Iteration_02_Lightweight_Dual_Strut.3mf
 ```
 
 This model is a more aggressively optimized derivative of the previous dual-strut concept.
@@ -129,7 +129,7 @@ While this iteration demonstrated the capabilities of generative design, it was 
 </p>
 
 ```
-Final_Hybrid_Design.f3d
+Final_Hybrid_Design.3mf
 ```
 
 This model represents the final optimized geometry selected for manufacturing and testing.
@@ -152,7 +152,7 @@ This model was selected as the final engineering solution and served as the basi
 </p>
 
 ```
-Drop_Test_Rig.f3d
+Drop_Test_Rig.3mf
 ```
 
 The drop test rig was designed to provide a repeatable experimental platform for evaluating the performance of the UAV landing legs under controlled impact conditions.
