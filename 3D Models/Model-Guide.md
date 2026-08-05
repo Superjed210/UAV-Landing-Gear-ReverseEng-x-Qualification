@@ -61,8 +61,8 @@ Although this was not the final manufactured design, it provided an important co
 Spring_Inspired_Leg.f3d
 ```
 
-<p align="center">
-  <img src="../Assets/models/spring-inspired-leg.png" width="260">
+<p align="left">
+  <img src="../Assets/models/spring-inspired-leg.png" width="350">
 </p>
 
 This concept was developed as a hand-designed exploration of an alternative approach to UAV landing gear. Rather than optimizing an existing geometry, the design reimagines the landing leg as a compliant structure capable of behaving similarly to a spring.
