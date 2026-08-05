@@ -55,6 +55,31 @@ Although this was not the final manufactured design, it provided an important co
 
 ---
 
+### Spring-Inspired Landing Leg
+
+```
+Spring_Inspired_Leg.f3d
+```
+
+<p align="center">
+  <img src="../assets/models/spring-inspired-leg.png" width="260">
+</p>
+
+This concept was developed as a hand-designed exploration of an alternative approach to UAV landing gear. Rather than optimizing an existing geometry, the design reimagines the landing leg as a compliant structure capable of behaving similarly to a spring.
+
+The inspiration came from both biological systems and compliant mechanical structures, particularly the way insect legs deform during landing to absorb and redistribute impact energy. The continuous curved geometry was intended to encourage controlled elastic deformation, allowing the leg to flex under load before returning toward its original shape.
+
+Unlike the topology and generative design models included in this repository, this concept was created manually as an engineering thought experiment. It was used to investigate how geometry alone could contribute to energy absorption and impact mitigation without relying solely on additional material or increased stiffness.
+
+**Design Inspiration**
+
+- Biological locomotion
+- Insect leg mechanics
+- Compliant mechanisms
+- Spring-like energy absorption
+- Biomimetic engineering
+
+
 ## Generative_Design
 
 Several computationally generated concepts were explored during the optimization phase.
